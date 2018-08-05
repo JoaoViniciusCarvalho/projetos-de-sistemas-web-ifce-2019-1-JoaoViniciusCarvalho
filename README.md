@@ -3,7 +3,7 @@ _Welcome turma_,
 
 segue algumas informações a serem utilizadas durante o decorrer dessa disciplina. Todos os exercícios serão postados aqui, no seu repositório. 
 
-1 - Para cada exercício uma nova pasta dentro do mesmo repositório
+1 - Para cada exercício uma nova pasta
 ==================
 Sempre que foi commitar uma nova tarefa, lembre-se de criar uma pasta muito bem nomeada.   
 *sugestão de nomenclatura para as pastas*: exercicio1-htmlbasico  
