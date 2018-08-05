@@ -27,14 +27,14 @@ Quando finalizar uma tarefa, lembre-se de descrever isso no comit.
   Você pode propor mudanças (adicioná-las ao Index) usando  
     ```git add <arquivo>```  
   ou  
-    git add *  
+    ```git add *```  
   
   Para confirmar estas mudanças (isto é, fazer um commit), use  
-    git commit -m "comentários das alterações"  
+    ```git commit -m "comentários das alterações"```  
   
   Para enviar estas alterações ao seu repositório github  
-    git push origin master  
+    ```git push origin master```  
 
   Para atualizar seu repositório local com a mais nova versão, execute   
-    git pull  
+    ```git pull```  
  
