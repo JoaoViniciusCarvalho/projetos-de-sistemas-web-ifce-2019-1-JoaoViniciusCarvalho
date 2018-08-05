@@ -6,7 +6,7 @@ segue algumas informações a serem utilizadas durante o decorrer dessa discipli
 1 - Para cada exercício uma nova pasta
 ==================
 Sempre que foi commitar uma nova tarefa, lembre-se de criar uma pasta muito bem nomeada.   
-*sugestão de nomenclatura para as pastas*: exercicio1-htmlbasico  
+**sugestão de nomenclatura para as pastas**: exercicio1-htmlbasico  
 
 2 - Mantenha a organização
 ==================
@@ -17,7 +17,7 @@ Use uma pasta para imagens, uma para arquivos, outra para scripts, e assim vai.
 ==================
 Sempre que commitar algo novo, descreva bem o que foi feito, mas de forma resumida (máximo 50 caracteres).   
 Quando finalizar uma tarefa, lembre-se de descrever isso no comit.  
-*sugestão de mensagem*: "Adiciona o exercício 3 da lista de exercício 2."  
+**sugestão de mensagem**: "Adiciona o exercício 3 da lista de exercício 2."  
 
 4 - Comandos principais git
 ==================
